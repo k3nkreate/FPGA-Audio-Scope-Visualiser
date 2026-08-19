@@ -28,7 +28,7 @@ My work focused on the **front end of the signal path, DSP routing, verification
 
 ## Hardware Demonstration
 
-![FPGA Audio Scope Visualiser running on the DE1-SoC and LT24 display](docs/hardware-test.jpg)
+![FPGA Audio Scope Visualiser running on the DE1-SoC and LT24 display](docs/hardware-test.jpg.jpg)
 
 *Integrated group system running on the DE1-SoC with the LT24 display. The image shows the final hardware context in which my waveform generator, DSP routing and FPGA constraints were used. The complete system also contains modules authored by other team members.*
 
